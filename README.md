@@ -1,7 +1,7 @@
 1. Use Case Diagram
 ![Use Case Diagram](use_case_diagram.png)
--Sistemdeki temel aktörler (mobil_gelistirici,yazilim_mimari,admin) ve gerçekleştirebildikleri işlemler gösterilmiştir. 
--Performans testi başlatıldığında arka planda metrikleri_olc kullanımı include ilişkisiyle zorunlu olarak tetiklenmektedir.
+*Sistemdeki temel aktörler (mobil_gelistirici,yazilim_mimari,admin) ve gerçekleştirebildikleri işlemler gösterilmiştir. 
+*Performans testi başlatıldığında arka planda metrikleri_olc kullanımı include ilişkisiyle zorunlu olarak tetiklenmektedir.
 ---
 2. Activity Diagram
 ![Activity Diagram](activity_diagram.png)
