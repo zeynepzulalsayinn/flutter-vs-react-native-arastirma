@@ -5,10 +5,10 @@
 ---
 2. Activity Diagram
 ![Activity Diagram](activity_diagram.png)
--Test platformunun iş süreci akışını temsil eder. 
--Kullanıcı Flutter veya React Native ortamını seçtikten sonra paralel akış ile FPS,CPU,RAM eşzamanlı olarak ölçülmektedir. Hata durumunda log kaydedilerek süreç güvenli şekilde sonlandırılmaktadır.
+*Test platformunun iş süreci akışını temsil eder. 
+*Kullanıcı Flutter veya React Native ortamını seçtikten sonra paralel akış ile FPS,CPU,RAM eşzamanlı olarak ölçülmektedir. Hata durumunda log kaydedilerek süreç güvenli şekilde sonlandırılmaktadır.
 ---
 3. Class Diagram
 ![Class Diagram](class_diagram.png)
--Sistemin nesne yönelimli yapısını modeller. 
--TestSenaryosu ana sınıfından FlutterTesti ve ReactnativeTesti sınıfları kalıtım yoluyla üretilmiştir.
+*Sistemin nesne yönelimli yapısını modeller. 
+*TestSenaryosu ana sınıfından FlutterTesti ve ReactnativeTesti sınıfları kalıtım yoluyla üretilmiştir.
